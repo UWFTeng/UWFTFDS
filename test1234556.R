@@ -1,1 +1,2 @@
+#comments
 rnorm(10)
